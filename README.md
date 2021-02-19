@@ -1,1 +1,3 @@
-# my-first-repo
+This is a guessing game. 
+A game of chance
+
